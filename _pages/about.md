@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello everyone! Welcome to my personal Website"
+title: "Tong Su's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
