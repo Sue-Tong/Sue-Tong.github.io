@@ -13,11 +13,3 @@ Collaborated closely with professors to design and implement dynamic statistical
 Innovatively designed and led in-person weekly tutorials and office hours, providing comprehensive support for 500+ students grappling with complex statistical and data science concepts
 
 Link to course content: https://github.com/pointOfive/STA130_F23/tree/main
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
