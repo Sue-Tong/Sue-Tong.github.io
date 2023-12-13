@@ -16,7 +16,7 @@ My name is Tong Su, a fourth-year undergraduate student at the University of Tor
 
 ## Teaching
 
-At UofT, I have been an undergraduate teaching assistant for:
+At the University of Toronto, I have been a teaching assistant for:
 * STA130: An Introduction to Statistical Reasoning and Data Science (2023 Winter & Fall)
 
 At [Data Science Institute](https://certificates.datasciences.utoronto.ca/certificatesandsessions/), I have been a course supporter for:
