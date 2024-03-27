@@ -19,6 +19,8 @@ Work experience
 * May 2022: Data Analyst Assistant
   * Visualized and Analyzed 10,000 posted transaction records using Power BI and dashboards, producing insightful reports that were presented to the Treasury Board, aiding in data-driven decision-making
   * Processed and cleaned millions of datasets utilizing Pandas and R data analysis techniques to assess internal performance for the Internal Audit Branch, resulting in improved data accuracy and facilitating more effective audits
+
+  <br/><img src='/images/500x300.png'>
   
 Skills
 ======
