@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Leveraging Instagram for Public Engagement: A Study on Visual Communication Strategies of Canadian Sexual Assault Support Organization"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper studied the effect of posts on engagement on the Instagram accounts of sexual assault organizations. '
+date: 2024-03-01
+venue: 'The International Communication Association (ICA)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Countributions
+====
+* Utilized Azure-based image analysis to dissect a dataset of 200,000+ Instagram images, revealing insights into how sexual assault organizations leverage social media for promotion
+* Performed thorough linear regression analyses in R to uncover patterns in Instagram engagement metrics, leading to actionable recommendations for improved outreach and increased social media impact
