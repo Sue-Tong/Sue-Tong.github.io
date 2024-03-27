@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+excerpt: 'In this paper, we conducted comprehensive empirical experiments with varying LRL domains and sizes to evaluate the performance of 8 PEFT methods with in total of 15 architectures using the SacreBLEU score.'
+date: 2024-03-14
+venue: '2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)'
+paperurl: 'https://openreview.net/forum?id=SQGu-Uc-GE0'
