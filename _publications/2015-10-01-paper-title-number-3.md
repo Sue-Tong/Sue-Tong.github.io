@@ -7,7 +7,7 @@ date: 2024-03-01
 venue: 'The International Communication Association (ICA)'
 ---
 
-Countributions
+Contributions
 ====
 * Utilized Azure-based image analysis to dissect a dataset of 200,000+ Instagram images, revealing insights into how sexual assault organizations leverage social media for promotion
 * Performed thorough linear regression analyses in R to uncover patterns in Instagram engagement metrics, leading to actionable recommendations for improved outreach and increased social media impact
