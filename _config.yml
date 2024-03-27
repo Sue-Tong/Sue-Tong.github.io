@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tong Su"
 title_separator          : "-"
-name                     : &name "Tong Su"
+name                     : &name "Tong Su (苏桐）"
 description              : &description "4th year undergraduate student in University of Toronto"
 url                      : https://Sue-Tong.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
