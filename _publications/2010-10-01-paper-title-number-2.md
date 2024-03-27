@@ -6,7 +6,7 @@ paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://dl.acm.org/
 citation: 'Lee, E. S. A., Danukarjanto, L., Sharmin, S., Hung, S. Y., Huang, S., & Su, T. (2024, March). Exploring Student Motivation in Integration of Soft Skills Training within Three Levels of Computer Science Programs. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (pp. 708-714)'
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2024-03-07
-excerpt: 'In this paper, we present three comprehensive curricula that intertwine soft skills within academic training for three distinct tiers of computer science education: undergraduate, master's'
+excerpt: 'In this paper, we present three comprehensive curricula that intertwine soft skills within academic training for three distinct tiers of computer science education: undergraduate, master, and professional levels.'
 ---
 
 Abstract
