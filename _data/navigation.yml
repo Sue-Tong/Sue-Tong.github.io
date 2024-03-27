@@ -2,16 +2,16 @@
 main:
   # - title: "Portfolio"
   #   url: /portfolio/
-    
+  
+  - title: "Research"
+    url: /publications/
+     
   - title: "Work"
     url: /experience/
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Research"
-    url: /publications/
-    
   - title: "CV"
     url: /files/TongSu_CV.pdf
     
