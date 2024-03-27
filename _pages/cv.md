@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Work experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+
 ======
 * May 2023 - now : Full Stack Developer
   * Collaborate with the Digital Solution Team to successfully develop a robust insurance website, catering to a customer base of over 10,000 users, encompassing both Angular frontend and Django backend components 
