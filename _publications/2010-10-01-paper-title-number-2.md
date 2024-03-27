@@ -4,6 +4,8 @@ collection: publications
 venue: 'The Technical Symposium on Computer Science Education (SIGCSE TS)'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://dl.acm.org/doi/abs/10.1145/3626252.3630852)'
 citation: 'Lee, E. S. A., Danukarjanto, L., Sharmin, S., Hung, S. Y., Huang, S., & Su, T. (2024, March). Exploring Student Motivation in Integration of Soft Skills Training within Three Levels of Computer Science Programs. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (pp. 708-714)'
+permalink: /publication/2010-10-01-paper-title-number-2
+date: 2024-03-07
 ---
 
 Abstract
