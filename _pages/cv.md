@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-======
 * May 2023 - now : Full Stack Developer
   * Collaborate with the Digital Solution Team to successfully develop a robust insurance website, catering to a customer base of over 10,000 users, encompassing both Angular frontend and Django backend components 
   * Utilize .NET and RestAPI to integrate and process millions of customer data, facilitating smooth data flow from the frontend to the Duckcreek wave policy system
