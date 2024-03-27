@@ -1,5 +1,9 @@
 ---
 title: "Exploring Student Motivation in Integration of Soft Skills Training within Three Levels of Computer Science Programs"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'In this paper, we present three comprehensive curricula that intertwine soft skills within academic training for three distinct tiers of computer science education: undergraduate, master's, and professional levels.'
+date: 2024-03-07
 ---
 
 Abstract
