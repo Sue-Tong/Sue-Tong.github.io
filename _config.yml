@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tong Su"
 title_separator          : "-"
 name                     : &name "Tong Su (苏桐）"
-description              : &description "4th year undergraduate student in University of Toronto"
+description              : &description "master student in University of Oxford"
 url                      : https://Sue-Tong.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sue-Tong/Sue-Tong.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tong Su (苏桐)"
   avatar           : "profile.png"
-  bio              : "University of Toronto"
-  location         : "Toronto"
+  bio              : "University of Oxford"
+  location         : "Oxford"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=EUmYtdQAAAAJ"
-  email            :  "tong.su@mail.utoronto.ca"
+  email            :  "tong.su@reuben.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
